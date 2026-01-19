@@ -46,7 +46,7 @@ packaging==23.0
     #   pytest
 pluggy==1.0.0
     # via pytest
-pyasn1==0.4.8
+pyasn1==0.6.2
     # via
     #   python-jose
     #   rsa
@@ -75,7 +75,7 @@ six==1.16.0
     #   python-dateutil
 tomli==2.0.1
     # via pytest
-urllib3==1.26.14
+urllib3==2.6.3
     # via
     #   -c requirements.txt
     #   requests
